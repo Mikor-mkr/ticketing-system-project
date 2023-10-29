@@ -24,8 +24,3 @@ This repository contains the source code for a ticketing system with the followi
 
 ### 5. Collaboration
 - **Add Comments**: Collaborate on tickets by adding comments.
-
-## Getting Started
-
-To get started with this project, you can clone the repository and follow the setup instructions provided in the documentation.
-
